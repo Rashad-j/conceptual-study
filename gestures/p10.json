@@ -1,0 +1,72 @@
+{
+    "id": 10,
+    "experience": 1,
+    "age": 38,
+    "gender": "Female",
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "insertion",
+            "example": "Tom is traveling to Berlin week(next)",
+            "gesture": "Move the cursor with index of the right hand and then type",
+            "reasons": "",
+            "Evaluation": [4, 7, 7],
+            "notes": ""
+        },
+        {
+            "order": 2,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long",
+            "gesture": "Click in the air with the index to indicate the start of the selection, then move the index to strike, then move it up to idicate the end of the selection, then use two fingers, the index and middle to delete",
+            "reasons": "I guess I do it usually, I have not noticed, but it seems like something I am naturally doing",
+            "Evaluation": [5, 5, 4],
+            "notes": ""
+        },
+        {
+            "order": 3,
+            "operation": "reorderSingle",
+            "example": "He in Germany lives",
+            "gesture": "Move the cursor of the right hand to the end of the word, then double tap and move to select it, then move till the begining of the word, then tap to indicate the end of the selection, then use the index to move it",
+            "reasons": "I guess because I see everything in space like a thing, I prefer to move things in space. I have also chosen movements that I don't have force myself to remember, things come naturally",
+            "Evaluation": [6, 6, 6],
+            "notes": ""
+        },
+        {
+            "order": 4,
+            "operation": "deleteSingle",
+            "example": "He likes to eat healthy when visiting visiting resturants",
+            "gesture": "Move the cursor to the word, then double tap with the middle and index fingers to delete it",
+            "reasons": "I use the two fingers for deleting because I already used it for deleting",
+            "Evaluation": [7, 7, 6],
+            "notes": ""
+        },
+        {
+            "order": 5,
+            "operation": "reorderGroup",
+            "example": "In middle school I am",
+            "gesture": "(Similar to reorderSingle) Move the cursor to the end of the word, then double tap with the index to indicate start of selection, then move the index till the begining of the word, then tap to indicate the end of selection, then use the index to move it",
+            "reasons": "",
+            "Evaluation": [6, 5, 5],
+            "notes": ""
+        },
+        {
+            "order": 6,
+            "operation": "replaceGroup",
+            "example": "How long have her had this fever?",
+            "gesture": "(Similar to deleteGroup) Click in the air with the index to indicate the start of the selection, then move the index to strike, then move it up to idicate the end of the selection, then use two fingers, the indexand middle to delete",
+            "reasons": "",
+            "Evaluation": [7, 6, 5],
+            "notes": ""
+        },
+        {
+            "order": 7,
+            "operation": "replaceSingle",
+            "example": "How far had Morino lived in America?",
+            "gesture": "(Similar to deleteSingle) Move the cursor to the word, then double tap with the middle and index fingers to delete it",
+            "reasons": "Getting rid of the whole word and then typing",
+            "Evaluation": [6, 7, 6],
+            "notes": ""
+        }
+    ],
+    "comments": "I think it was very interesting, I think it is perfect, helpeful, and beneficial."
+}

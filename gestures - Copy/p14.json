@@ -1,0 +1,73 @@
+{
+    "id": 14,
+    "experience": 0,
+    "age": 34,
+    "gender" : "Male",
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "replaceGroup",
+            "example": "How long have her had this fever?",
+            "gesture": "Tap with the index to indicate the start of selection, then expand and move the index and thumb horizontally to select, then double tap to indicate the end to selection, then draw x with both indexes to delete, then typing",
+            "reasons": "",
+            "Evaluation": [7, 5, 7],
+            "notes": ""
+        },
+        {
+            "order": 2,
+            "operation": "replaceSingle",
+            "example": "How far had Morino lived in America?",
+            "gesture": "Move the cursor to the word, then double tap to select it, the draw x with the two indexes to delete it, then typing",
+            "reasons": "It is similar to the last gesture, can save time",
+            "Evaluation": [7, 5, 7],
+            "notes": ""
+        },
+        {
+            "order": 3,
+            "operation": "deleteSingle",
+            "example": "He likes to eat healthy when visiting visiting resturants",
+            "gesture": "(Similar to replaceSingle) Move the cursor to the word, then double tap to select it, the draw x with the two indexes to delete it",
+            "reasons": "It is easier to use and faster for the correction",
+            "Evaluation": [7, 5, 7],
+            "notes": ""
+        },
+        {
+            "order": 4,
+            "operation": "reorderGroup",
+            "example": "In middle school I am",
+            "gesture": "Tap with the index to indicate the start of selection, then expand and move the index and thumb horizontally to select, then double tap to indicate the end to selection, then grab with the whole hand and and move it to reorder it",
+            "reasons": "I am using the whole hand because I am selection two or more words",
+            "Evaluation": [7, 5, 7],
+            "notes": ""
+        },
+        {
+            "order": 5,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long?",
+            "gesture": "(Similar to replaceGroup) Tap with the index to indicate the start of selection, then expand and move the index and thumb horizontally to select, then double tap to indicate the end to selection, then draw x to delete it",
+            "reasons": "",
+            "Evaluation": [7, 5, 7],
+            "notes": ""
+        },
+        {
+            "order": 6,
+            "operation": "reorderSingle",
+            "example": "He in Germany lives",
+            "gesture": "Move the cursor with the right index, then double tap to select, then with the index move it",
+            "reasons": "I used the index to move the selected words because that would be the difference between selecting a single a group where I used whole hand to move the selected text",
+            "Evaluation": [7, 4, 7],
+            "notes": ""
+        },
+        {
+            "order": 7,
+            "operation": "insertion",
+            "example": "Tom is traveling to Berlin week.",
+            "gesture": "Move the cursor to desired position, then typing",
+            "reasons": "",
+            "Evaluation": [7, 7, 7],
+            "notes": ""
+        }
+        
+    ],
+    "comments": "I gave mostly 5 for easiness because i think there could be better gestures. This could be good to save time, there are about 20 translation projects every one hour, with this approach i think translators could save time. I imagine there will be some other better options. "
+}

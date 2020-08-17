@@ -1,0 +1,76 @@
+{
+    "id": 1,
+    "experience": 1.5,
+    "age": 21,
+    "gender": "Female",
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "reorderSingle",
+            "example": "He in Germany Lives",
+            "gesture": "Select lives with one hand using the index and then with the other hand index move it to the right position",
+            "reasons": "It was the first thing came into my mind, the most intuitive thing",
+            "Evaluation": [
+                6,
+                5,
+                4
+            ],
+            "notes": "Fixed = the text is already is fixed, thus ignoring this part to reduce actions. She did not explained how she would exactly select the word lives, she resolved it later"
+        },
+        {
+            "order": 2,
+            "operation": "reorderGroup",
+            "example": "In middle school I am",
+            "gesture": "I will do something of the same sort, fix the part 'In middle school' with one hand, then use two fingers from the other hand to indicate selection of two words, then when moving the hands to the top the system starts moving. There has to be some visual indications, e.g. use a bar to move and fix the text = visual feedback is already there",
+            "reasons": "The same sort of the reorder single",
+            "Evaluation": [6, 5, 3],
+            "notes": "The part where she said i fix is also ignored here because the text is already fixed"
+        },
+        {
+            "order": 3,
+            "operation": "insertion",
+            "example": "Tom is traveling to Berlin week(next)",
+            "gesture": "Create a space between Berlin and week, use indexes of both hands to select Berlin and week, then separate them, then the system will assume i want to typing with the keyboard",
+            "reasons": "I think it is more intuitive, when i look at the phrase, it was the first think came into my mind",
+            "Evaluation": [7, 6, 5],
+            "notes": "It is clearly that she is adding unrequired actions, like select Berlin and week and then separate them, later she suggested just moving the cursor to desired position"
+        },
+        {
+            "order": 4,
+            "operation": "replaceSingle",
+            "example": "How far had Tom lived in America? (far->long)",
+            "gesture": "Select far with index of the left hand, then with the right hand swipe to towards the left hand to delete it, the type with the keyboard.",
+            "reasons": "",
+            "Evaluation": [5, 7, 5],
+            "notes": "She also added that extra actions before typing, which is about moving the gesture. To overcome this issue we can just assume the system will place the cursor in the current position of deleted word as was suggested by other participants"
+        },
+        {
+            "order": 5,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long",
+            "gesture": "Select two words with one finger for each word (index + middle) using the left hand, then with the right hand use to swipe towards the left hand to delete it",
+            "reasons": "",
+            "Evaluation": [6, 5, 4],
+            "notes": "Using the visual cues to help selection"
+        },
+        {
+            "order": 6,
+            "operation": "replaceGroup",
+            "example": "How long have her had this fever? (have her -> has she)",
+            "gesture": "Select two words with one finger for each word (index + middle) using the left hand, then with the right hand use to swipe towards the left hand to delete it, then the cursor would be in place of deleted word or I can move it with index finger to desired position, then type with the keyboard",
+            "reasons": "",
+            "Evaluation": [6, 5, 5],
+            "notes": ""
+        },
+        {
+            "order": 7,
+            "operation": "deleteSingle",
+            "example": "Hi likes to eat healthy when visiting visiting resturants",
+            "gesture": "(Similar to replaceSingle) Select far with index of the left hand, then with the right hand swipe to towards the left hand to delete it",
+            "reasons": "It is similar to other gestures and the work of mouse and keyboard",
+            "Evaluation": [6, 7, 6],
+            "notes": ""
+        }
+    ],
+    "comments": "As I was doing it, i noticed it was more interesting and it has potentials."
+}

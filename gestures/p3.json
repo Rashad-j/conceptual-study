@@ -1,0 +1,73 @@
+{
+    "id": 3,
+    "experience": 1,
+    "gender" : "Female",
+    "age": 24,
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "replaceSingle",
+            "example": "How far had Morino lived in America? (far->long)",
+            "gesture": "Move the cursor to the end of far with the index of the right hand, then delete with the keyboard, then typing",
+            "reasons": "I love my keyboard, thus i would delete with it",
+            "Evaluation": [4, 4, 5],
+            "notes": "She thinks there could be other ways to do it, but because i love my keyboard, i would use it, mine was a bit complicated"
+        },
+        {
+            "order": 2,
+            "operation": "replaceGroup",
+            "example": "How long have her had this fever? (have her -> has she)",
+            "gesture": "Use both indices, left and right, then select, then just typing",
+            "reasons": "I will use my right hand because I am right handed. It is not conflicting with sliding the cursor.",
+            "Evaluation": [6, 7, 6],
+            "notes": ""
+        },
+        {
+            "order": 3,
+            "operation": "reorderGroup",
+            "example": "In middle schole I am",
+            "gesture": "Use both indices to select, then move both hands to move the text",
+            "reasons": "I will use both indices, and then select the way is used before, it is more easy",
+            "Evaluation": [7, 7, 6],
+            "notes": ""
+        },
+        {
+            "order": 4,
+            "operation": "deleteSingle",
+            "example": "He likes to eat healthy when visiting visiting restaurants",
+            "gesture": "Select with both indices, then move the index of the right hand down to delete it",
+            "reasons": "I would use my right index because it comes naturally",
+            "Evaluation": [6, 7, 7],
+            "notes": ""
+        },
+        {
+            "order": 5,
+            "operation": "reorderSingle",
+            "example": "He in Germany lives",
+            "gesture": "(similar to reoder group)Select it with two indices, then just move the hand to reoder it",
+            "reasons": "Because it is similar in selection and reorder group",
+            "Evaluation": [6, 7, 7],
+            "notes": ""
+        },
+        {
+            "order": 6,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long",
+            "gesture": "(Similar to deleteSingle) Select with both indices, then move the right hand index down to delete it",
+            "reasons": "It is easy and intuitive, i always use the same moves",
+            "Evaluation": [7, 7, 6],
+            "notes": ""
+        },
+        {
+            "order": 7,
+            "operation": "insertion",
+            "example": "Tom is traveling to Berlin week (next)",
+            "gesture": "Use the index of the left hand to move the cursor and then just typing",
+            "reasons": "",
+            "Evaluation": [6, 7, 6],
+            "notes": ""
+        }
+        
+    ],
+    "comments": "I believe consistency will be very important, same gestures for same things, like selection. Nothing too complicated, like going crazy with my hands, it is very cool"
+}

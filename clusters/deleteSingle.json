@@ -1,0 +1,170 @@
+{
+  "operation": "deleteSingle",
+  "cursor": [{ "desc": "", "participants": [], "AR": "" }],
+  "selection": [
+    {
+      "desc": "N fingers of left hand = N words, just place the cursor on the word (index = 1 word)",
+      "participants": [1],
+      "AR": "",
+      "avg": ["6.00", "7.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [7],
+      "replacement_arr": [6]
+    },
+    {
+      "desc": "No select, place the cursor on word means selecting it",
+      "participants": [4, 6, 10, 12],
+      "AR": "",
+      "avg": ["6.50", "6.75", "6.50"],
+      "sd": ["0.58", "0.50", "0.58"],
+      "match_arr": [6, 6, 7, 7],
+      "easiness_arr": [6, 7, 7, 7],
+      "replacement_arr": [7, 6, 6, 7]
+    },
+    {
+      "desc": "Index + thumb, start with pinch, then expand/part them to select",
+      "participants": [2, 9, 11],
+      "AR": "",
+      "avg": ["6.00", "6.33", "6.00"],
+      "sd": ["1.00", "0.58", "1.00"],
+      "match_arr": [5, 6, 7],
+      "easiness_arr": [6, 6, 7],
+      "replacement_arr": [6, 5, 7]
+    },
+    {
+      "desc": "Both indices, start with slightly close together, then part them separate them to start selection",
+      "participants": [3, 5, 13],
+      "AR": "",
+      "avg": ["5.67", "6.67", "6.33"],
+      "sd": ["0.58", "0.58", "0.58"],
+      "match_arr": [6, 5, 6],
+      "easiness_arr": [7, 7, 6],
+      "replacement_arr": [7, 6, 6]
+    },
+    {
+      "desc": "Double tap to select a single item",
+      "participants": [7, 8, 14],
+      "AR": "",
+      "avg": ["6.33", "6.00", "6.33"],
+      "sd": ["1.15", "1.00", "1.15"],
+      "match_arr": [7, 5, 7],
+      "easiness_arr": [7, 6, 5],
+      "replacement_arr": [7, 5, 7]
+    }
+  ],
+  "gestures": [
+    {
+      "desc": "Swipe the whole right hand towards the bottom left (down)",
+      "participants": [1],
+      "AR": "",
+      "avg": ["6.00", "7.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [7],
+      "replacement_arr": [6]
+    },
+    {
+      "desc": "Move the right index down",
+      "participants": [3, 6],
+      "AR": "",
+      "avg": ["6.00", "7.00", "6.50"],
+      "sd": ["0.00", "0.00", "0.71"],
+      "match_arr": [6, 6],
+      "easiness_arr": [7, 7],
+      "replacement_arr": [7, 6]
+    },
+    {
+      "desc": "Move the right index up",
+      "participants": [5, 7, 9],
+      "AR": "",
+      "avg": ["6.00", "6.67", "6.00"],
+      "sd": ["1.00", "0.58", "1.00"],
+      "match_arr": [5, 7, 6],
+      "easiness_arr": [7, 7, 6],
+      "replacement_arr": [6, 7, 5]
+    },
+    {
+      "desc": "Press backspace key on the keyboard",
+      "participants": [2],
+      "AR": "",
+      "avg": ["5.00", "6.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [5],
+      "easiness_arr": [6],
+      "replacement_arr": [6]
+    },
+    {
+      "desc": "Move the right hand up",
+      "participants": [4, 8, 11],
+      "AR": "",
+      "avg": ["6.00", "6.33", "6.33"],
+      "sd": ["1.00", "0.58", "1.15"],
+      "match_arr": [6, 5, 7],
+      "easiness_arr": [6, 6, 7],
+      "replacement_arr": [7, 5, 7]
+    },
+    {
+      "desc": "Double tap using index + middle fingers to delete single item",
+      "participants": [10],
+      "AR": "",
+      "avg": ["7.00", "7.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [7],
+      "easiness_arr": [7],
+      "replacement_arr": [6]
+    },
+    {
+      "desc": "Pinch and move the right hand up to through away",
+      "participants": [12],
+      "AR": "",
+      "avg": ["7.00", "7.00", "7.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [7],
+      "easiness_arr": [7],
+      "replacement_arr": [7]
+    },
+    {
+      "desc": "Strikethrough text with the right index to delete",
+      "participants": [13],
+      "AR": "",
+      "avg": ["6.00", "6.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [6],
+      "replacement_arr": [6]
+    },
+    {
+      "desc": "Draw X using both indices",
+      "participants": [14],
+      "AR": "",
+      "avg": ["7.00", "5.00", "7.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [7],
+      "easiness_arr": [5],
+      "replacement_arr": [7]
+    }
+  ],
+  "Comments": [
+    {
+      "text": "He mentioned another suggestion which is after selection move the selected segment to a trash bin icon to delete it. Also, he added that longer phrases may require to use both hands for selection",
+      "participant": 2
+    },
+    {
+      "text": "I would use my right index because it comes naturally",
+      "participant": 3
+    },
+    {
+      "text": "I feel this is good even for longer selection",
+      "participant": 5
+    },
+    {
+      "text": "She thinks delete with the index by moving it up or down is equally fine",
+      "participant": 7
+    },
+    { "text": "More like human, similar to real life", "participant": 8 }
+  ],
+  "ar_selection": "0.16",
+  "ar_gestures": "0.08",
+  "conclusion" : ""
+}

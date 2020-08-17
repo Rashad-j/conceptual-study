@@ -1,0 +1,73 @@
+{
+    "id": 11,
+    "experience": 2,
+    "age": 27,
+    "gender" : "Female",
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "reorderSingle",
+            "example": "He in Germany lives",
+            "gesture": "Use the index to move the cursor, then use the index and thumb fingers to move the word to desired position",
+            "reasons": "I pyhsically need to move the word, to take it and, like holding it in my hand",
+            "Evaluation": [6, 7, 7],
+            "notes": "Maybe it is not the preferred to everyone, but only to me. "
+        },
+        {
+            "order": 2,
+            "operation": "insertion",
+            "example": "Tom is traveling to Berlin (next)",
+            "gesture": "Use the index to move the cursor (make space), then just typing",
+            "reasons": "",
+            "Evaluation": [7, 7, 7],
+            "notes": ""
+        },
+        {
+            "order": 3,
+            "operation": "reorderGroup",
+            "example": "In middle school I am",
+            "gesture": "(Similar to reorderSingle) Use the index and thumb to select the words, then move the whole hand to move them to desired position",
+            "reasons": "It would be easier to select multiple words",
+            "Evaluation": [6, 6, 7],
+            "notes": ""
+        },
+        {
+            "order": 4,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long",
+            "gesture": "select the two words with the index and thumb of the right hand then through the whole hand to the top-right to delete",
+            "reasons": "In similar way to delete in virtual reality, and the from the physical world",
+            "Evaluation": [7, 7, 7],
+            "notes": ""
+        },
+        {
+            "order": 5,
+            "operation": "replaceSingle",
+            "example": "How far had Morino lived in America",
+            "gesture": "(Similar to deleteGroup) Select with the index and thumb, then through the hand to the top-right to delete, then typing",
+            "reasons": "I was thinking about deleting the word or not, in order to have clean sentence",
+            "Evaluation": [5, 7, 7],
+            "notes": ""
+        },
+        {
+            "order": 6,
+            "operation": "deleteSingle",
+            "example": "(Similar to deleteGroup) He likes  to eat healthy when visiting visiting resturants",
+            "gesture": "Move the cursor, then select with the thumb and inedx and then through it away",
+            "reasons": "",
+            "Evaluation": [7, 7, 7],
+            "notes": ""
+        },
+        {
+            "order": 7,
+            "operation": "replaceGroup",
+            "example": "(Similar to replaceSingle) How long have her had this fever? (have her -> has she)",
+            "gesture": "Move the cursor, then select with the index and the thumb, then just typing",
+            "reasons": "I did not delete because it is a group of words, therefore, I prefer to just select and type",
+            "Evaluation": [6, 6, 7],
+            "notes": ""
+        }
+        
+    ],
+    "comments": "It is interesting, i would like to try it. I am not sure about longer sentence."
+}

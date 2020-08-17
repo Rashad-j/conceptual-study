@@ -1,0 +1,95 @@
+{
+    "operation": "reorderSingle",
+    "cursor":[
+        {
+            "desc": "",
+            "participants": [],
+            "AR": "" 
+        }
+    ],
+    "selection":[
+        {
+            "desc": "N fingers of left hand = N words, just place the cursor on the word (index = 1 word)",
+            "participants": [1],
+            "AR": "" 
+        },
+        {
+            "desc": "Index + thumb, start with a pinch, then separate them to select",
+            "participants": [2, 9, 11],
+            "AR": "" 
+        },
+        {
+            "desc": "Use both indicies, start with a slightly close position, then separate them to start selecting",
+            "participants": [3, 5, 13],
+            "AR": "" 
+        },
+        {
+            "desc": "Make a fist with the right hand to grab the word, then move",
+            "participants": [4, 8],
+            "AR": "" 
+        },
+        {
+            "desc": "Move the right index down to cut it",
+            "participants": [6],
+            "AR": "" 
+        },
+        {
+            "desc": "Pinch with index + middle",
+            "participants": [7],
+            "AR": "" 
+        },
+        {
+            "desc": "Double tap with the right index, move to select, then tap to end the selection",
+            "participants": [10],
+            "AR": "" 
+        },
+        {
+            "desc": "Start with a pinch to indicate the start of selection, then part the index and thumb away and move to select, then pinch to indicate the end to selection",
+            "participants": [12],
+            "AR": "" 
+        },
+        {
+            "desc": "Double tap with the right index to select single item",
+            "participants": [14],
+            "AR": "" 
+        }
+    ],
+    "gestures":[
+        {
+            "desc": "After selecting, use the right index to move it",
+            "participants": [1],
+            "AR": "" 
+        },
+        {
+            "desc": "Move the whole hand(s) while in selection position and move hands away after placing in the right position",
+            "participants": [2, 3, 11, 13],
+            "AR": "" 
+        },
+        {
+            "desc": "Move the right hand, forming a fist for selection, then open it to release",
+            "participants": [4, 8, 12],
+            "AR": "" 
+        },
+        {
+            "desc": "Point with the right index and move to target place",
+            "participants": [5, 9, 10, 14],
+            "AR": "" 
+        },
+        {
+            "desc": "Move the right index up to paste it (move down to cut it)",
+            "participants": [6],
+            "AR": "" 
+        },
+        {
+            "desc": "Pinch and then move the hand while in pinch form, then release in target place by relaxing the index and thumb fingers",
+            "participants": [7],
+            "AR": "" 
+        }
+    ],
+    "Comments":[
+        {
+            "text": "",
+            "participant": 0
+        }
+    ]
+}

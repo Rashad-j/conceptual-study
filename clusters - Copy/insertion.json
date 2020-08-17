@@ -1,0 +1,45 @@
+{
+    "operation": "insertion",
+    "cursor":[
+        {
+            "desc": "",
+            "participants": [],
+            "AR": "" 
+        }
+    ],
+    "selection":[
+        {
+            "desc": "No selection",
+            "participants": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+            "AR": 0
+        }
+    ],
+    "gestures":[
+        {
+            "desc": "Use both indexes to expand and make space, then just type",
+            "participants": [1, 11],
+            "AR": ""
+        },
+        {
+            "desc": "Move the cursor to the required position, then tap to make space, then just type",
+            "participants": [6],
+            "AR": ""
+        },
+        {
+            "desc": "Move the whole hand to move the cursor",
+            "participants": [13],
+            "AR": ""
+        },
+        {
+            "desc": "Move right index",
+            "participants": [2, 3, 4, 5, 7, 8, 9, 10, 12, 14],
+            "AR": ""
+        }
+    ],
+    "Comments":[
+        {
+            "text": "",
+            "participant": 0
+        }
+    ]
+}

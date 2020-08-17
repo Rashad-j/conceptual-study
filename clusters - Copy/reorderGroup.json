@@ -1,0 +1,75 @@
+{
+    "operation": "reorderGroup",
+    "cursor":[
+        {
+            "desc": "",
+            "participants": [],
+            "AR": "" 
+        }
+    ],
+    "selection":[
+        {
+            "desc": "N fingers of the left hand = N words (index + middle = 2 words)",
+            "participants": [1],
+            "AR": "" 
+        },
+        {
+            "desc": "Index + thumb, start with a pinch then part them to start selection",
+            "participants": [2, 7, 9, 11],
+            "AR": "" 
+        },
+        {
+            "desc": "Use both indices, start with slightly close position, then separate them away to start selecting",
+            "participants": [3, 5, 8, 13],
+            "AR": "" 
+        },
+        {
+            "desc": "Raise hand with 5 fingers, then move the index to select, then rotate the hand to show a window to insert replacement",
+            "participants": [4],
+            "AR": "" 
+        },
+        {
+            "desc": "Double tap with the right index to start selecting, then move and slide the index to select",
+            "participants": [6],
+            "AR": "" 
+        },
+        {
+            "desc": "Double tap with the right index, then move to select, then tap to end selection",
+            "participants": [10],
+            "AR": "" 
+        },
+        {
+            "desc": "Start with a pinch to indicate the start of selection, then part the index and thumb away and move to select, then pinch to indicate the end to selection",
+            "participants": [12],
+            "AR": "" 
+        }
+    ],
+    "gestures":[
+        {
+            "desc": "Move whole hand(s) while in selection position",
+            "participants": [1, 2, 3, 7, 11, 13],
+            "AR": "" 
+        },
+        {
+            "desc": "Move the right index to move selected text",
+            "participants": [4, 5, 9, 10],
+            "AR": "" 
+        },
+        {
+            "desc": "After placing the cursor on the word, move index down (cut), then index up (paste) in target position",
+            "participants": [6],
+            "AR": "" 
+        },
+        {
+            "desc": "Grab selected text with the right hand by forming a fist with the hand, then move to target position and release it by relaxing the hand",
+            "participants": [8, 12, 14],
+            "AR": "" 
+        }
+    ],
+    "Comments":[
+        {
+            "text": "",
+            "participant": 0
+        }
+    ]
+}

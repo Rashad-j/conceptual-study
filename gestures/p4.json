@@ -1,0 +1,73 @@
+{
+    "id": 4,
+    "experience": 2,
+    "gender" : "Female",
+    "age": 24,
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "replaceGroup",
+            "example": "How long have her had this fever? (have her -> has she)",
+            "gesture": "Move the cursor on the word by performing jumps on each word with the index finger until reaching target word, then move the hand to top to through away that word. Later she changed the cursor movement to just move horizontally instead of jumping and she described it as easier (easiness:6)",
+            "reasons": "Easy and intuitive, throughing away especially, then type with the keyboard",
+            "Evaluation": [6, 6, 6],
+            "notes": "She mentioned that this could not be good for long sentences.Then, she proposed other gesture: Use number of fingers from the right hand to indicate the number of words to select, once selected move the hand to top to through those words away."
+        },
+        {
+            "order": 2,
+            "operation": "deleteSingle",
+            "example": "He likes to eat healthy when visiting visiting restaurants",
+            "gesture": "(similar to replaceGroup) Move the cursor to the required word, then just move the hand to top to through it away",
+            "reasons": "",
+            "Evaluation": [6, 6, 7],
+            "notes": "She started by refering to the way she used in performing the last operation. She suggested to divide the screen in vertical columns for each word, and when moving the hand the system can tell which column is pointed at. She mentioned that this is really good alternative because when you select a word with the mouse mistakes such as not selecting the last letter, or the selecting the space after the word could occur. She added that deleting a word should also delete the space after"
+        },
+        {
+            "order": 3,
+            "operation": "replaceSingle",
+            "example": "How far had Morino lived in America? (had->far)",
+            "gesture": "Move the cursor and then rotate the index and thump to indicate replacement, then a window should be shown to typing the replacement word",
+            "reasons": "",
+            "Evaluation": [6, 6, 6],
+            "notes": "She said that I usually needs to only change part of the word and not the whole word, thus she proposed to use gestures for delete (index up), replace (rotate index and thump), and editing part (index down) of the word."
+        },
+        {
+            "order": 4,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long",
+            "gesture": "Move the cursor with the index of the right hand to the start of the desired phrase, then raise the left hand with five fingers (similar to stop sign) to indicate a starting point of selection, now once we keep moving the cursor, text will be selected, then perform delete gesture (move whole hand or index to top). Later she changed her mind to only use one hand to perform this gesture",
+            "reasons": "I guess it is comfortable",
+            "Evaluation": [5, 6, 4],
+            "notes": "She came up with alternative to only use one hand to perform the same gesture. To me it is more intuitive to use both hands, but maybe other people could prefer the use of one hand. Then she decided to go with one hand because you usally use one hand to control the mouse and the other is left on the keyboard"
+        },
+        {
+            "order": 5,
+            "operation": "reorderGroup",
+            "example": "In middle school I am.",
+            "gesture": "Move the cursor with the index of the right hand to the start of the desired phrase, then raise the whole hand with five fingers (similar to stop sign) to indicate a starting point of selection, now once we keep moving the cursor, text will be selected, then fix the text with a hand roatating gesture to fix it, then move the index to move the selected text, once in desired position, use the same gesture to unfix it",
+            "reasons": "",
+            "Evaluation": [4, 3, 6],
+            "notes": "She started by referring to selection method she used in last gesture."
+        },
+        {
+            "order": 6,
+            "operation": "insertion",
+            "example": "Tom is traveling to Berlin week. (next)",
+            "gesture": "Move the cursor with the index, then just type.",
+            "reasons": "",
+            "Evaluation": [6, 7, 4],
+            "notes": ""
+        },
+        {
+            "order": 7,
+            "operation": "reorderSingle",
+            "example": "He in Germany lives",
+            "gesture": "Move the cursor to desired word, then perform a fist to grap it and start moving the hand to reach desired position, then open the hand to let go",
+            "reasons": "Graping something looks very intuitive",
+            "Evaluation": [6, 6, 6],
+            "notes": "A change to serveral words proposed: raise the hand with five fingers, then move the hand as it is and start selecting text, to stop fold the hand to form a fist. It move intuitive and requires less actions"
+        }
+        
+    ],
+    "comments": ""
+}

@@ -1,0 +1,182 @@
+{
+  "operation": "replaceGroup",
+  "cursor": [{ "desc": "", "participants": [], "AR": "" }],
+  "selection": [
+    {
+      "desc": "N fingers = N words (index + middle = 2 words)",
+      "participants": [1],
+      "AR": "",
+      "avg": ["6.00", "5.00", "5.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [5],
+      "replacement_arr": [5]
+    },
+    {
+      "desc": "Index + thumb, start with a pinch then stretch out to select",
+      "participants": [2, 7, 9, 11],
+      "AR": "",
+      "avg": ["5.75", "5.50", "5.50"],
+      "sd": ["0.96", "0.58", "1.29"],
+      "match_arr": [5, 5, 7, 6],
+      "easiness_arr": [6, 5, 5, 6],
+      "replacement_arr": [6, 4, 5, 7]
+    },
+    {
+      "desc": "Both indexes, start with slightly close position then stretch out to start selection",
+      "participants": [3, 5, 8, 13],
+      "AR": "",
+      "avg": ["5.25", "6.25", "5.00"],
+      "sd": ["0.96", "0.50", "1.41"],
+      "match_arr": [6, 5, 4, 6],
+      "easiness_arr": [7, 6, 6, 6],
+      "replacement_arr": [6, 5, 3, 6]
+    },
+    {
+      "desc": "No selection (used replaceSingle: deleted one word at a time)",
+      "participants": [4],
+      "AR": "",
+      "avg": ["6.00", "6.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [6],
+      "replacement_arr": [6]
+    },
+    {
+      "desc": "Double tap to start selection, slide the index to select, then one tap to end the selection",
+      "participants": [6],
+      "AR": "",
+      "avg": ["5.00", "5.00", "5.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [5],
+      "easiness_arr": [5],
+      "replacement_arr": [5]
+    },
+    {
+      "desc": "One tap using the right index to indicate the start of selection, then move to select, move up to end selection",
+      "participants": [10],
+      "AR": "",
+      "avg": ["7.00", "6.00", "5.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [7],
+      "easiness_arr": [6],
+      "replacement_arr": [5]
+    },
+    {
+      "desc": "Start with a pinch, the expand vertically and slide right to select, then pinch to end selection",
+      "participants": [12],
+      "AR": "",
+      "avg": ["7.00", "6.00", "7.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [7],
+      "easiness_arr": [6],
+      "replacement_arr": [7]
+    },
+    {
+      "desc": "Tap with the right index to indicate the start of the selection, move the index to start selection, then double tap to end selection",
+      "participants": [14],
+      "AR": "",
+      "avg": ["7.00", "5.00", "7.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [7],
+      "easiness_arr": [5],
+      "replacement_arr": [7]
+    }
+  ],
+  "gestures": [
+    {
+      "desc": "Swipe the right hand left down",
+      "participants": [1],
+      "AR": "",
+      "avg": ["6.00", "5.00", "5.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [5],
+      "replacement_arr": [5]
+    },
+    {
+      "desc": "Just typing",
+      "participants": [2, 3, 5, 8, 9, 11],
+      "AR": "",
+      "avg": ["5.50", "6.00", "5.33"],
+      "sd": ["1.05", "0.63", "1.37"],
+      "match_arr": [5, 6, 5, 4, 7, 6],
+      "easiness_arr": [6, 7, 6, 6, 5, 6],
+      "replacement_arr": [6, 6, 5, 3, 5, 7]
+    },
+    {
+      "desc": "Swipe the whole right hand up to delete",
+      "participants": [4, 12],
+      "AR": "",
+      "avg": ["6.50", "6.00", "6.50"],
+      "sd": ["0.71", "0.00", "0.71"],
+      "match_arr": [6, 7],
+      "easiness_arr": [6, 6],
+      "replacement_arr": [6, 7]
+    },
+    {
+      "desc": "Slide the right index down to cut it, then typing",
+      "participants": [6],
+      "AR": "",
+      "avg": ["5.00", "5.00", "5.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [5],
+      "easiness_arr": [5],
+      "replacement_arr": [5]
+    },
+    {
+      "desc": "Slide the right index up",
+      "participants": [7],
+      "AR": "",
+      "avg": ["5.00", "5.00", "4.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [5],
+      "easiness_arr": [5],
+      "replacement_arr": [4]
+    },
+    {
+      "desc": "Strikethrough text with index",
+      "participants": [13],
+      "AR": "",
+      "avg": ["6.00", "6.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [6],
+      "replacement_arr": [6]
+    },
+    {
+      "desc": "Double tap using index + middle fingers of the right hand",
+      "participants": [10],
+      "AR": "",
+      "avg": ["7.00", "6.00", "5.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [7],
+      "easiness_arr": [6],
+      "replacement_arr": [5]
+    },
+    {
+      "desc": "Draw X using both indices",
+      "participants": [14],
+      "AR": "",
+      "avg": ["7.00", "5.00", "7.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [7],
+      "easiness_arr": [5],
+      "replacement_arr": [7]
+    }
+  ],
+  "Comments": [
+    {
+      "text": "I would use the same thing, as I used the selection beforem because the less functionality you have to learn the easier it is. I have it when I have CAT tools that have 72 differents shorcuts to use",
+      "participant": 5
+    },
+    {
+      "text": "He also proposed to move the right hand to top to delete it. He also propsed to clab to delete but it is a bit noisy",
+      "participant": 8
+    }
+  ],
+  "arselection": "0.13",
+  "argestures": "0.18",
+  "ar_selection": "0.13",
+  "ar_gestures": "0.18"
+}

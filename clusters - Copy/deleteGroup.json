@@ -1,0 +1,106 @@
+{
+    "operation": "deleteGroup",
+    "cursor":[
+        {
+            "desc": "",
+            "participants": [],
+            "AR": "" 
+        }
+    ],
+    "selection":[
+        {
+
+            "desc": "Number of fingers = number of words (Index + middle = two words)",
+            "participants": [1],
+            "AR": "" 
+        },
+        {
+            "desc": "Index + thumb, start with a pinch then part them to start selecting",
+            "participants": [2, 7, 9, 11],
+            "AR": "" 
+        },
+        {
+            "desc": "Both indices, start with slightly close together, then part them to start selecting",
+            "participants": [3, 5, 8, 13],
+            "AR": "" 
+        },
+        {
+            "desc": "Raise the right hand with five fingers separated to indicate the start of the selection, then use and move the right index to select",
+            "participants": [4],
+            "AR": "" 
+        },
+        {
+            "desc": "Double tap with the right index, then move it to the right to select",
+            "participants": [6],
+            "AR": "" 
+        },
+        {
+            "desc": "Make one tap with the right index to idicate the start of the selection, move and slide to select, then move up to end selection",
+            "participants": [10],
+            "AR": "" 
+        },
+        {
+            "desc": "Pinch and expand, slide the hand to select",
+            "participants": [12],
+            "AR": "" 
+        },
+        {
+            "desc": "One tap with the right index to start the section, then move and slide to start selection, then double tap to stop selecting",
+            "participants": [14],
+            "AR": "" 
+        }
+    ],
+    "gestures":[
+        {
+            "desc": "Swipe the right hand towards the bottom left (down)",
+            "participants": [1],
+            "AR": "" 
+        },
+        {
+            "desc": "Press the backspace key on the keyboard",
+            "participants": [2],
+            "AR": "" 
+        },
+        {
+            "desc": "Point and move the right index down",
+            "participants": [3, 6],
+            "AR": "" 
+        },
+        {
+            "desc": "Point and move the right index up",
+            "participants": [5, 7, 9],
+            "AR": "" 
+        },
+        {
+            "desc": "Move the right hand up",
+            "participants": [4, 8, 11],
+            "AR": "" 
+        },
+        {
+            "desc": "Double tap with middle and index fingers",
+            "participants": [10],
+            "AR": "" 
+        },
+        {
+            "desc": "Pinch and move the hand up to through away",
+            "participants": [12],
+            "AR": "" 
+        },
+        {
+            "desc": "Strikethrough text with the right index",
+            "participants": [13],
+            "AR": "" 
+        },
+        {
+            "desc": "Draw X using both indices",
+            "participants": [14],
+            "AR": "" 
+        }
+    ],
+    "Comments":[
+        {
+            "text": "",
+            "participant": 0
+        }
+    ]
+}

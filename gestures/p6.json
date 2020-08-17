@@ -1,0 +1,73 @@
+{
+    "id": 6,
+    "experience": 3,
+    "age": 27,
+    "gender": "Male",
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long",
+            "gesture": "Move the cursor before the word and then double tap to select with your index finger while moving, then move the index down to delete (cut) it",
+            "reasons": "",
+            "Evaluation": [5, 6, 6],
+            "notes": ""
+        },
+        {
+            "order": 2,
+            "operation": "insertion",
+            "example": "Tom is traveling to Berlin week. (next)",
+            "gesture": "Move the cursor to desired position, then tap to make a space, and then typing with the keyboard",
+            "reasons": "",
+            "Evaluation": [6, 6, 7],
+            "notes": "This could be faster than the current mouse and keyboard."
+        },
+        {
+            "order": 3,
+            "operation": "deleteSingle",
+            "example": "He likes to eat healthy when visiting visiting restaurants",
+            "gesture": "Moving the cursor with my hand on the word, then move the index down to delete (cut) it",
+            "reasons": "",
+            "Evaluation": [6, 7, 6],
+            "notes": ""
+        },
+        {
+            "order": 4,
+            "operation": "reorderSingle",
+            "example": "He in Germany lives",
+            "gesture": "Move the cursor to the word, then move the index down to cut it, then move the cursor to desired position, move the index up to paste it",
+            "reasons": "When we combine all gestures, it will make sence, make it consistent, and less operatios",
+            "Evaluation": [6, 6, 6],
+            "notes": ""
+        },
+        {
+            "order": 5,
+            "operation": "replaceGroup",
+            "example": "How long have her had this fever?(have her -> has she)",
+            "gesture": "Move the cursor with the index of the right hand before have, then double tap to select, and then move the index to select, move index down to cut them, then typing with the keyboard",
+            "reasons": "",
+            "Evaluation": [5, 5, 5],
+            "notes": ""
+        },
+        {
+            "order": 6,
+            "operation": "reorderGroup",
+            "example": "In middle school I am",
+            "gesture": "(similar to reorder single) Move the cursor before I, then double tap, then move the index to select, then move down to cut it, then place the cursor in desired position, then index up to paste it",
+            "reasons": "I already used it before, easier for me, no extra action",
+            "Evaluation": [6, 6, 7],
+            "notes": "He thinks this gesture will be faster than the laptop, maybe cut the time to less than the half"
+        },
+        {
+            "order": 7,
+            "operation": "replaceSingle",
+            "example": "How far had Morino lived in America?",
+            "gesture": "(similar to replace group)Move the cursor infront of the word far, then double tap, then move the cursor to select, then move down to cut it",
+            "reasons": "I used this selection in previous operations",
+            "Evaluation": [5, 6, 6],
+            "notes": ""
+        }
+        
+    ],
+    "comments": "Suggested to use haptic keyboard on the back of the hand to faster typing, thus, we no longer need to use the physical keyboard at all, combined with the gestures"
+}

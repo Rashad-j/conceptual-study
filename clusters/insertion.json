@@ -1,0 +1,83 @@
+{
+  "operation": "insertion",
+  "cursor": [{ "desc": "", "participants": [], "AR": "" }],
+  "selection": [
+    {
+      "desc": "No selection",
+      "participants": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+      "AR": 0,
+      "avg": ["6.14", "6.50", "6.00"],
+      "sd": ["0.95", "0.65", "1.30"],
+      "match_arr": [7, 5, 6, 6, 7, 6, 5, 6, 7, 4, 7, 7, 6, 7],
+      "easiness_arr": [6, 7, 7, 7, 7, 6, 6, 6, 5, 7, 7, 7, 6, 7],
+      "replacement_arr": [5, 7, 6, 4, 7, 7, 3, 6, 5, 7, 7, 7, 6, 7]
+    }
+  ],
+  "gestures": [
+    {
+      "desc": "Use both indexes to expand and make space, then just type",
+      "participants": [1, 11],
+      "AR": "",
+      "avg": ["7.00", "6.50", "6.00"],
+      "sd": ["0.00", "0.71", "1.41"],
+      "match_arr": [7, 7],
+      "easiness_arr": [6, 7],
+      "replacement_arr": [5, 7]
+    },
+    {
+      "desc": "Move the cursor to the required position, then tap to make space, then just type",
+      "participants": [6],
+      "AR": "",
+      "avg": ["6.00", "6.00", "7.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [6],
+      "replacement_arr": [7]
+    },
+    {
+      "desc": "Move the whole hand to move the cursor",
+      "participants": [13],
+      "AR": "",
+      "avg": ["6.00", "6.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [6],
+      "replacement_arr": [6]
+    },
+    {
+      "desc": "Move right index",
+      "participants": [2, 4, 5, 7, 8, 9, 10, 12, 14],
+      "AR": "",
+      "avg": ["6.00", "6.56", "5.89"],
+      "sd": ["1.12", "0.73", "1.54"],
+      "match_arr": [5, 6, 7, 5, 6, 7, 4, 7, 7],
+      "easiness_arr": [7, 7, 7, 6, 6, 5, 7, 7, 7],
+      "replacement_arr": [7, 4, 7, 3, 6, 5, 7, 7, 7]
+    },
+    {
+      "desc": "Move left index",
+      "participants": [3],
+      "AR": "",
+      "avg": ["6.00", "7.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [7],
+      "replacement_arr": [6]
+    }
+  ],
+  "Comments": [
+    {
+      "text": "I think it is more intuitive, when i look at the phrase, it was the first think came into my mind",
+      "participant": 1
+    },
+    {
+      "text": "It is easier than using the mouse to point and insert a word, with your hand i think it is quicker and easier",
+      "participant": 2
+    },
+    { "text": "Similar to using the mouse", "participant": 7 }
+  ],
+  "arselection": "1.00",
+  "argestures": "0.41",
+  "ar_selection": "1.00",
+  "ar_gestures": "0.41"
+}

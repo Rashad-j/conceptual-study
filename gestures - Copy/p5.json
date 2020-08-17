@@ -1,0 +1,73 @@
+{
+    "id": 5,
+    "experience": 4,
+    "gender": "Male",
+    "age": 28,
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "deleteSingle",
+            "example": "He likes to eat healthy when visiting visiting restaurants",
+            "gesture": "Use the indices of both hands to select, then with the right hand index move to the top to delete it",
+            "reasons": "I feel this is good even for longer selection",
+            "Evaluation": [5, 7, 6],
+            "notes": ""
+        },
+        {
+            "order": 2,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long",
+            "gesture": "(Same as delete single) Use the indices of both hands, then with the right hand index move to the top to delete it",
+            "reasons": "It is really easy to select the start and then slide it to select ",
+            "Evaluation": [5, 7, 6],
+            "notes": ""
+        },
+        {
+            "order": 3,
+            "operation": "replaceGroup",
+            "example": "How long have her had this fever? (have her -> has she)",
+            "gesture": "(Same selection in delete) Use index fingers from both hands to mark selection, then just type",
+            "reasons": "I would use the same thing, as I used the selection beforem because the less functionality you have to learn the easier it is. I have it when I have CAT tools that have 72 differents shorcuts to use",
+            "Evaluation": [5, 6, 5],
+            "notes": ""
+        },
+        {
+            "order": 4,
+            "operation": "insertion",
+            "example": "Tom is traveling to Berlin week.(next)",
+            "gesture": "I would just move the cursor with the index of the right hand and then type",
+            "reasons": "It is the same when using the mouse, but even easier",
+            "Evaluation": [7, 7, 7],
+            "notes": ""
+        },
+        {
+            "order": 5,
+            "operation": "replaceSingle",
+            "example": "How far had Morino lived in America?",
+            "gesture": "(similar to replace group)Use both indices to select the target word, then just typing right away",
+            "reasons": "",
+            "Evaluation": [6, 7, 6],
+            "notes": ""
+        },
+        {
+            "order": 6,
+            "operation": "reorderSingle",
+            "example": "He in Germany lives",
+            "gesture": "Use both indices to select the target word, then use the right hand index to move it",
+            "reasons": "I feel like I came up with a good selection method, after that I think it is the easiest way to slide the word to where i want it to go",
+            "Evaluation": [6, 7, 7],
+            "notes": "It is better because it would reduce the keyboard shortcut ctl+c ctl+v"
+        },
+        {
+            "order": 7,
+            "operation": "reorderGroup",
+            "example": "In middle school I am",
+            "gesture": "(Similart to reodrder single) Use both indices to select the target word, then use the right hand index to move it",
+            "reasons": "",
+            "Evaluation": [6, 7, 7],
+            "notes": ""
+        }
+        
+    ],
+    "comments": "In case of longer sentences I think the selection could be more difficult. It is really intresting, I hope you develop this technology so quickly so I can use it"
+}

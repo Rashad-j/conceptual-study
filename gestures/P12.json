@@ -1,0 +1,73 @@
+{
+    "id": 12,
+    "experience": 0,
+    "age": 28,
+    "gender" : "Male",
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "reorderGroup",
+            "example": "In middles school I am",
+            "gesture": "Move the cursor with the right hand, then raise the left hand to indicate the start of the selection, then move the right hand to start selection, then grab it with the right hand and move it to desired position. At the end he suggested to use one hand, index and thump to select a group, pinch, then expand then move to select, then back to pinch, then grab and move",
+            "Evaluation": [5, 6, 6],
+            "reasons": "",
+            "notes": "The participant also suggested to use the keyboard in combination with the eyes movement, he suggested to press and hold s then move the eyes to select and then release to indicate the end of the selection"
+        },
+        {
+            "order": 2,
+            "operation": "reorderSingle",
+            "example": "He in Germnay lives",
+            "gesture": "(similar to reorderGroup) Move the cursor with the right hand, then raise the left hand to indicate the start of the selection, then move the right hand to start selection, then grab it with the right hand and move it to desired position. Then he suggested to use one hand for selection using the thump and index by pinching to indicate the start, then unpinch and move to select then pinch to indicate the end, then grab to move",
+            "reasons": "I already used it in reorder group",
+            "Evaluation": [7, 7, 7],
+            "notes": "In Japanese you should select part of the words because there is no space in between the words."
+        },
+        {
+            "order": 3,
+            "operation": "replaceSingle",
+            "example": "How far had Morino lived in America?",
+            "gesture": "Move the cursor with the right hand to the middle of the word, then pinch and move the hand to top to delete",
+            "reasons": "So just get rid of it through it away",
+            "Evaluation": [7, 7, 7],
+            "notes": ""
+        },
+        {
+            "order": 4,
+            "operation": "insertion",
+            "example": "Tom is travelling to Berlin week (next)",
+            "gesture": "Move the cursor with the right hand index, then just typing",
+            "reasons": "",
+            "Evaluation": [7, 7, 7],
+            "notes": ""
+        },
+        {
+            "order": 5,
+            "operation": "replaceGroup",
+            "example": "How long have her had this fever?",
+            "gesture": "Use the index and thumb to select the words, pinch to start selection, then move to select, then just move the hand to top to delete, then just type",
+            "reasons": "",
+            "Evaluation": [7, 6, 7],
+            "notes": ""
+        },
+        {
+            "order": 6,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long",
+            "gesture": "(Similar to replaceGroup) Use the index and thumb to select the words, pinch to start selection, then move to select, then just move the hand to top to delete",
+            "reasons": "Similar to replace group, i used it before",
+            "Evaluation": [7, 7, 7],
+            "notes": ""
+        },
+        {
+            "order": 7,
+            "operation": "deleteSingle",
+            "example": "He likes to eat healthy when visiting visiting resturants",
+            "gesture": "(Similar to replaceSingle) Move the cursor with the right hand to the middle of the word, then pinch and move the hand to top to delete",
+            "reasons": "",
+            "Evaluation": [7, 7, 7],
+            "notes": ""
+        }
+        
+    ],
+    "comments": "He suggested that to select one word you can use just the whole hand to grab it, then do whatever you want. To select specific part of word or multiple words, then use the index and thump, similar to chopsticks. It think it is important to consider the logic of other languages, e.g. with Japanese where there is no spaces between words"
+}

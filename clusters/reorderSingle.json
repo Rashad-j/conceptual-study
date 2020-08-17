@@ -1,0 +1,183 @@
+{
+  "operation": "reorderSingle",
+  "cursor": [{ "desc": "", "participants": [], "AR": "" }],
+  "selection": [
+    {
+      "desc": "N fingers of left hand = N words, just place the cursor on the word (index = 1 word)",
+      "participants": [1],
+      "AR": "",
+      "avg": ["6.00", "5.00", "4.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [5],
+      "replacement_arr": [4]
+    },
+    {
+      "desc": "Index + thumb, start with a pinch, then separate them to select",
+      "participants": [2, 9, 11],
+      "AR": "",
+      "avg": ["6.00", "6.67", "6.67"],
+      "sd": ["1.00", "0.58", "0.58"],
+      "match_arr": [5, 7, 6],
+      "easiness_arr": [6, 7, 7],
+      "replacement_arr": [6, 7, 7]
+    },
+    {
+      "desc": "Use both indicies, start with a slightly close position, then separate them to start selecting",
+      "participants": [3, 5, 13],
+      "AR": "",
+      "avg": ["6.00", "6.67", "6.67"],
+      "sd": ["0.00", "0.58", "0.58"],
+      "match_arr": [6, 6, 6],
+      "easiness_arr": [7, 7, 6],
+      "replacement_arr": [7, 7, 6]
+    },
+    {
+      "desc": "(No select) Grab the word, then move",
+      "participants": [4, 8],
+      "AR": "",
+      "avg": ["6.00", "6.00", "5.50"],
+      "sd": ["0.00", "0.00", "0.71"],
+      "match_arr": [6, 6],
+      "easiness_arr": [6, 6],
+      "replacement_arr": [6, 5]
+    },
+    {
+      "desc": "Move the right index down to cut it",
+      "participants": [6],
+      "AR": "",
+      "avg": ["6.00", "6.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [6],
+      "replacement_arr": [6]
+    },
+    {
+      "desc": "Pinch with index + middle",
+      "participants": [7],
+      "AR": "",
+      "avg": ["5.00", "4.00", "4.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [5],
+      "easiness_arr": [4],
+      "replacement_arr": [4]
+    },
+    {
+      "desc": "Double tap with the right index, move to select, then tap to end the selection",
+      "participants": [10],
+      "AR": "",
+      "avg": ["6.00", "6.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [6],
+      "replacement_arr": [6]
+    },
+    {
+      "desc": "Start with a pinch to indicate the start of selection, then part the index and thumb away and move to select, then pinch to indicate the end to selection",
+      "participants": [12],
+      "AR": "",
+      "avg": ["7.00", "7.00", "7.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [7],
+      "easiness_arr": [7],
+      "replacement_arr": [7]
+    },
+    {
+      "desc": "Double tap with the right index to select single item",
+      "participants": [14],
+      "AR": "",
+      "avg": ["7.00", "4.00", "7.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [7],
+      "easiness_arr": [4],
+      "replacement_arr": [7]
+    }
+  ],
+  "gestures": [
+    {
+      "desc": "After selecting, use the right index to move it",
+      "participants": [1],
+      "AR": "",
+      "avg": ["6.00", "5.00", "4.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [5],
+      "replacement_arr": [4]
+    },
+    {
+      "desc": "Move the whole hand(s) while in selection position and move hands away after placing in the right position",
+      "participants": [2, 3, 11, 13],
+      "AR": "",
+      "avg": ["5.75", "6.50", "6.50"],
+      "sd": ["0.50", "0.58", "0.58"],
+      "match_arr": [5, 6, 6, 6],
+      "easiness_arr": [6, 7, 7, 6],
+      "replacement_arr": [6, 7, 7, 6]
+    },
+    {
+      "desc": "Move the right hand, grab for selection, then open it to release",
+      "participants": [4, 8, 12],
+      "AR": "",
+      "avg": ["6.33", "6.33", "6.00"],
+      "sd": ["0.58", "0.58", "1.00"],
+      "match_arr": [6, 6, 7],
+      "easiness_arr": [6, 6, 7],
+      "replacement_arr": [6, 5, 7]
+    },
+    {
+      "desc": "Point with the right index and move to target place",
+      "participants": [5, 9, 10, 14],
+      "AR": "",
+      "avg": ["6.50", "6.00", "6.75"],
+      "sd": ["0.58", "1.41", "0.50"],
+      "match_arr": [6, 7, 6, 7],
+      "easiness_arr": [7, 7, 6, 4],
+      "replacement_arr": [7, 7, 6, 7]
+    },
+    {
+      "desc": "Move the right index up to paste it (move down to cut it)",
+      "participants": [6],
+      "AR": "",
+      "avg": ["6.00", "6.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [6],
+      "replacement_arr": [6]
+    },
+    {
+      "desc": "Pinch and then move the hand while in pinch form, then release in target place by relaxing the index and thumb fingers",
+      "participants": [7],
+      "AR": "",
+      "avg": ["5.00", "4.00", "4.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [5],
+      "easiness_arr": [4],
+      "replacement_arr": [4]
+    }
+  ],
+  "Comments": [
+    {
+      "text": "It was the first thing came into my mind, the most intuitive thing",
+      "participant": 1
+    },
+    { "text": "Easy to understand and intuitive", "participant": 2 },
+    {
+      "text": "Because it is similar in selection and reorder group",
+      "participant": 3
+    },
+    { "text": "Graping something looks very intuitive", "participant": 4 },
+    {
+      "text": "I feel like I came up with a good selection method, after that I think it is the easiest way to slide the word to where i want it to go",
+      "participant": 5
+    },
+    { "text": "Similar to real life when moving objects", "participant": 7 },
+    {
+      "text": "In Japanese you should select part of the words because there is no space in between the words",
+      "participant": 12
+    }
+  ],
+  "arselection": "0.08",
+  "argestures": "0.16",
+  "ar_selection": "0.08",
+  "ar_gestures": "0.16"
+}

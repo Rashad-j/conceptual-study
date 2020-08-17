@@ -1,0 +1,100 @@
+{
+    "operation": "replaceGroup",
+    "cursor":[
+        {
+            "desc": "",
+            "participants": [],
+            "AR": "" 
+        }
+    ],
+    "selection":[
+        {
+            "desc": "N fingers = N words (index + middle = 2 words)",
+            "participants": [1],
+            "AR": "" 
+        },
+        {
+            "desc": "Index + thumb, start with a pinch then stretch out to select",
+            "participants": [2, 7, 9, 11],
+            "AR": "" 
+        },
+        {
+            "desc": "Both indexes, start with slightly close position then stretch out to start selection",
+            "participants": [3, 5, 8, 13],
+            "AR": "" 
+        },
+        {
+            "desc": "No selection (used replaceSingle: deleted one word at a time)",
+            "participants": [4],
+            "AR": "" 
+        },
+        {
+            "desc": "Double tap to start selection, slide the index to select, then one tap to end the selection",
+            "participants": [6],
+            "AR": "" 
+        },
+        {
+            "desc": "One tap using the right index to indicate the start of selection, then move to select, move up to end selection",
+            "participants": [10],
+            "AR": "" 
+        },
+        {
+            "desc": "Start with a pinch, the expand vertically and slide right to select, then pinch to end selection",
+            "participants": [12],
+            "AR": "" 
+        },
+        {
+            "desc": "Tap with the right index to indicate the start of the selection, move the index to start selection, then double tap to end selection",
+            "participants": [14],
+            "AR": "" 
+        }
+    ],
+    "gestures":[
+        {
+            "desc": "Swipe the right hand left down",
+            "participants": [1],
+            "AR": "" 
+        },
+        {
+            "desc": "Just typing",
+            "participants": [2, 3, 5, 8, 9, 11],
+            "AR": "" 
+        },
+        {
+            "desc": "Swipe the whole right hand up to delete",
+            "participants": [4, 12],
+            "AR": "" 
+        },
+        {
+            "desc": "Slide the right index down to cut it, then typing",
+            "participants": [6],
+            "AR": "" 
+        },
+        {
+            "desc": "Slide the right index up",
+            "participants": [7],
+            "AR": "" 
+        },
+        {
+            "desc": "Strikethrough text with index",
+            "participants": [13],
+            "AR": "" 
+        },
+        {
+            "desc": "Double tap using index + middle fingers of the right hand",
+            "participants": [10],
+            "AR": "" 
+        },
+        {
+            "desc": "Draw X using both indices",
+            "participants": [14],
+            "AR": "" 
+        }
+    ],
+    "Comments":[
+        {
+            "text": "",
+            "participant": 0
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": 8,
+    "experience": 1.5,
+    "gender": "Male",
+    "age": 32,
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "deleteSingle",
+            "example": "He likes to eat healthy when visiting visiting restaurants",
+            "gesture": "Move the cursor to the desired position, then use the middle and index to select the whole word, then use the index, middle and thumb to through away",
+            "reasons": "More like human, similar to real life",
+            "Evaluation": [5, 6, 5],
+            "notes": "Or double click in the air to select it, both options are equally voted"
+        },
+        {
+            "order": 2,
+            "operation": "replaceGroup",
+            "example": "How long have her had this fever?",
+            "gesture": "Move the cursor at the desired position of the right hand, then add the left index to select the text, then through the hand to top to delete or just start typing",
+            "reasons": "I first delete and then type, but maybe other people type immediately",
+            "Evaluation": [4, 6, 3],
+            "notes": "He also proposed to move the right hand to top to delete it. He also propsed to clab to delete but it is a bit noisy"
+        },
+        {
+            "order": 3,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long?",
+            "gesture": "(similar to replace group) Move the cursor at the desired position of the right hand, then add the left index to select the text, then through the right hand to top to delete",
+            "reasons": "It is similar to using the phone when selection",
+            "Evaluation": [5, 6, 5],
+            "notes": ""
+        },
+        {
+            "order": 4,
+            "operation": "replaceSingle",
+            "example": "How far had Morino lived in America?",
+            "gesture": "(similar to delete single) Move the cursor to the desired position, then use the middle and index as agesture to select the whole word, then use the index, middle and thumb to through away or just start typing",
+            "reasons": "It is more common already, E.g. through something away from the table, not much actions",
+            "Evaluation": [5, 6, 6],
+            "notes": ""
+        },
+        {
+            "order": 5,
+            "operation": "insertion",
+            "example": "Tom is traveling to Berlin week (next)",
+            "gesture": "Move the cursor with the right hand index, then typing",
+            "reasons": "It's just a general gesture",
+            "Evaluation": [6, 6, 6],
+            "notes": "He mentioned moving the mouse with your eyes, it could be better to move the cursor with our eyes."
+        },
+        {
+            "order": 6,
+            "operation": "reorderGroup",
+            "example": "In middle school I am",
+            "gesture": "Move the cursor, select with the two hands indices, then grap it, then move to desired position, then release",
+            "reasons": "It is more human, just grap it and move it",
+            "Evaluation": [5, 6, 4],
+            "notes": ""
+        },
+        {
+            "order": 7,
+            "operation": "reorderSingle",
+            "example": "He in Germany lives",
+            "gesture": "Move the cursor to the desired position, raise index and middle fingers to select the word, then grap it, move it, release it",
+            "reasons": "I think this is the best way to move it",
+            "Evaluation": [6, 6, 5],
+            "notes": ""
+        }
+    ],
+    "comments": "It is very interesting because I like IT stuff, when I learned about CAT tools I was excited to learn about it, because it did not about CAT tools before, making it easy to do my job. Maybe gestures will make it more interesting and add physical movement to your hands, because you are sitting all day long and don't have much physical movement. Using the mouse causing tiring to my hand."
+} 

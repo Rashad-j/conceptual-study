@@ -1,0 +1,73 @@
+{
+    "id": 9,
+    "experience": 3,
+    "gender": "Female",
+    "age": 26,
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long",
+            "gesture": "Use the index and thumb and then expand to select the two words, then move the right index to top to delete it",
+            "reasons": "Part of it is from use of smart phone",
+            "Evaluation": [6, 6, 5],
+            "notes": "If we have virtual keyboard, it would be much easier"
+        },
+        {
+            "order": 2,
+            "operation": "deleteSingle",
+            "example": "He likes to eat healthy when visiting visiting restaurants",
+            "gesture": "(similar to delete group)Use the index and thumb and then expand to select the two words, then move the right index to top to delete it",
+            "reasons": "Because I have already used it before",
+            "Evaluation": [6, 6, 5],
+            "notes": ""
+        },
+        {
+            "order": 3,
+            "operation": "insertion",
+            "example": "Tom is travelling to Berlin week(next)",
+            "gesture": "Move the cursor with the index finger, then typing",
+            "reasons": "Similar to using the mouse",
+            "Evaluation": [7, 5, 5],
+            "notes": ""
+        },
+        {
+            "order": 4,
+            "operation": "replaceGroup",
+            "example": "How long have her had this fever? (have her -> has she)",
+            "gesture": "Use the index and thumb and then expand to select the two words, then just type",
+            "reasons": "Because I have already used the selection like this before",
+            "Evaluation": [7, 5, 5],
+            "notes": "She mentioned the trackpad that did not help her alot."
+        },
+        {
+            "order": 5,
+            "operation": "reorderSingle",
+            "example": "Use the index and thumb and then expand to select, then use the index to move the selection",
+            "gesture": "It is similar to other gestures, it is the normal way to doing things",
+            "reasons": "",
+            "Evaluation": [7, 7, 7],
+            "notes": ""
+        },
+        {
+            "order": 6,
+            "operation": "replaceSingle",
+            "example": "How far had Morino lived in America?",
+            "gesture": "(similar to replace group)Use the index and thumb and then expand to select the two words, then just type",
+            "reasons": "",
+            "Evaluation": [7, 6, 7],
+            "notes": "She suggested that to typing the air would make it faster than using the physical keyboard, and only using one hand to typingsead of two hands"
+        },
+        {
+            "order": 7,
+            "operation": "reorderGroup",
+            "example": "In middle school I am",
+            "gesture": "(similar to reordersingle) Use the index and thumb and then expand to select the two words, then use the index to move the selection",
+            "reasons": "It is fast and easy to do",
+            "Evaluation": [7, 6, 7],
+            "notes": ""
+        }
+        
+    ],
+    "comments": "At the begining it was a bit hard to imagne what is possible, but later it became more clear for"
+}

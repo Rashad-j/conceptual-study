@@ -1,0 +1,149 @@
+{
+  "operation": "reorderGroup",
+  "cursor": [{ "desc": "", "participants": [], "AR": "" }],
+  "selection": [
+    {
+      "desc": "N fingers of the left hand = N words (index + middle = 2 words)",
+      "participants": [1],
+      "AR": "",
+      "avg": ["6.00", "5.00", "3.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [5],
+      "replacement_arr": [3]
+    },
+    {
+      "desc": "Index + thumb, start with a pinch then part them to start selection",
+      "participants": [2, 7, 9, 11],
+      "AR": "",
+      "avg": ["6.00", "5.50", "6.25"],
+      "sd": ["0.82", "1.00", "1.50"],
+      "match_arr": [5, 6, 7, 6],
+      "easiness_arr": [6, 4, 6, 6],
+      "replacement_arr": [4, 7, 7, 7]
+    },
+    {
+      "desc": "Use both indices, start with slightly close position, then separate them away to start selecting",
+      "participants": [3, 5, 8, 13],
+      "AR": "",
+      "avg": ["6.00", "6.50", "5.75"],
+      "sd": ["0.82", "0.58", "1.26"],
+      "match_arr": [7, 6, 5, 6],
+      "easiness_arr": [7, 7, 6, 6],
+      "replacement_arr": [6, 7, 4, 6]
+    },
+    {
+      "desc": "Raise hand with 5 fingers, then move the index to select, then rotate the hand to show a window to insert replacement",
+      "participants": [4],
+      "AR": "",
+      "avg": ["4.00", "3.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [4],
+      "easiness_arr": [3],
+      "replacement_arr": [6]
+    },
+    {
+      "desc": "Double tap with the right index to start selecting, then move and slide the index to select",
+      "participants": [6],
+      "AR": "",
+      "avg": ["6.00", "6.00", "7.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [6],
+      "replacement_arr": [7]
+    },
+    {
+      "desc": "Double tap with the right index, then move to select, then tap to end selection",
+      "participants": [10],
+      "AR": "",
+      "avg": ["6.00", "5.00", "5.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [5],
+      "replacement_arr": [5]
+    },
+    {
+      "desc": "Start with a pinch to indicate the start of selection, then part the index and thumb away and move to select, then pinch to indicate the end to selection",
+      "participants": [12],
+      "AR": "",
+      "avg": ["5.00", "6.00", "6.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [5],
+      "easiness_arr": [6],
+      "replacement_arr": [6]
+    }
+  ],
+  "gestures": [
+    {
+      "desc": "Move whole hand(s) while in selection position",
+      "participants": [1, 2, 3, 7, 11, 13],
+      "AR": "",
+      "avg": ["6.00", "5.67", "5.50"],
+      "sd": ["0.63", "1.03", "1.64"],
+      "match_arr": [6, 5, 7, 6, 6, 6],
+      "easiness_arr": [5, 6, 7, 4, 6, 6],
+      "replacement_arr": [3, 4, 6, 7, 7, 6]
+    },
+    {
+      "desc": "Move the right index to move selected text",
+      "participants": [4, 5, 9, 10],
+      "AR": "",
+      "avg": ["5.75", "5.25", "6.25"],
+      "sd": ["1.26", "1.71", "0.96"],
+      "match_arr": [4, 6, 7, 6],
+      "easiness_arr": [3, 7, 6, 5],
+      "replacement_arr": [6, 7, 7, 5]
+    },
+    {
+      "desc": "After placing the cursor on the word, move index down (cut), then index up (paste) in target position",
+      "participants": [6],
+      "AR": "",
+      "avg": ["6.00", "6.00", "7.00"],
+      "sd": [0.0, 0.0, 0.0],
+      "match_arr": [6],
+      "easiness_arr": [6],
+      "replacement_arr": [7]
+    },
+    {
+      "desc": "Grab selected text, then move to target position and release it by relaxing the hand",
+      "participants": [8, 12, 14],
+      "AR": "",
+      "avg": ["5.67", "5.67", "5.67"],
+      "sd": ["1.15", "0.58", "1.53"],
+      "match_arr": [5, 5, 7],
+      "easiness_arr": [6, 6, 5],
+      "replacement_arr": [4, 6, 7]
+    }
+  ],
+  "Comments": [
+    { "text": "It is easy to interpertate, easy to use", "participant": 2 },
+    {
+      "text": "He suggested using both hands for selection of longer phrases, so that you can expand more than just using your thumb and index. Suggested a dropdown menu after selecting a word to select a replacement word. He also prefer one hand to do the gesture",
+      "participant": 2
+    },
+    {
+      "text": "I will use both indices, and then select the way is used before, it is easier",
+      "participant": 3
+    },
+    {
+      "text": "When we combine all gestures, it will make sence, make it consistent, and less operatios",
+      "participant": 6
+    },
+    {
+      "text": "We don't have a drage option with keyboard, so I guess it is better",
+      "participant": 7
+    },
+    {
+      "text": "It is more human like, just grap it and move it",
+      "participant": 8
+    },
+    {
+      "text": "It is logically connected to the first gesture I proposed. I use the index and thumb to select a word or group words",
+      "participant": 13
+    }
+  ],
+  "arselection": "0.13",
+  "argestures": "0.26",
+  "ar_selection": "0.13",
+  "ar_gestures": "0.26"
+}

@@ -1,0 +1,105 @@
+{
+    "operation": "replaceSingle",
+    "cursor":[
+        {
+            "desc": "",
+            "participants": [],
+            "AR": "" 
+        }
+    ],
+    "selection":[
+        {
+            "desc": "N fingers of the left hand = N words (left index = 1 word)",
+            "participants": [1],
+            "AR": "" 
+        },
+        {
+            "desc": "Index + thumb, start with a pinch, then expand to select as required",
+            "participants": [2, 9, 11],
+            "AR": "" 
+        },
+        {
+            "desc": "No selection, place the cursor on the word and then perform replacement gesture",
+            "participants": [3, 4, 10],
+            "AR": "" 
+        },
+        {
+            "desc": "Both indicies, start with slightly close position, then separate them to start selecting",
+            "participants": [5, 13],
+            "AR": "" 
+        },
+        {
+            "desc": "Double tap to start selecting, move index to select, then one tap to end selection",
+            "participants": [6],
+            "AR": "" 
+        },
+        {
+            "desc": "Double tap to select one item",
+            "participants": [7, 14],
+            "AR": "" 
+        },
+        {
+            "desc": "Index + middle to select one item",
+            "participants": [8],
+            "AR": "" 
+        },
+        {
+            "desc": "Pinch to select, then perform replacement gesture",
+            "participants": [12],
+            "AR": "" 
+        }
+    ],
+    "gestures":[
+        {
+            "desc": "Swipe the right hand to down left to delete it",
+            "participants": [1],
+            "AR": "" 
+        },
+        {
+            "desc": "Just typing after selecting (no gesture)",
+            "participants": [2, 3, 5, 9],
+            "AR": "" 
+        },
+        {
+            "desc": "Rotate the index and thumb to show pop up input window for replacement",
+            "participants": [4],
+            "AR": "" 
+        },
+        {
+            "desc": "Move right index down to cut it (index up to paste it)",
+            "participants": [6],
+            "AR": "" 
+        },
+        {
+            "desc": "After placing the cursor on it, move right index up to delete it",
+            "participants": [7],
+            "AR": "" 
+        },
+        {
+            "desc": "Move up whole right hand",
+            "participants": [8, 11, 12],
+            "AR": "" 
+        },
+        {
+            "desc": "Double tap using index + middle to delete single item",
+            "participants": [10],
+            "AR": "" 
+        },
+        {
+            "desc": "Strikethrough text with the right index",
+            "participants": [13],
+            "AR": "" 
+        },
+        {
+            "desc": "Draw X using both indices",
+            "participants": [14],
+            "AR": "" 
+        }
+    ],
+    "Comments":[
+        {
+            "text": "",
+            "participant": 0
+        }
+    ]
+}

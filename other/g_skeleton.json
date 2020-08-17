@@ -1,0 +1,73 @@
+{
+    "id": 0,
+    "experience": 0,
+    "gender" : "",
+    "age": 0,
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "",
+            "example": "",
+            "gesture": "",
+            "reasons": "",
+            "Evaluation": [],
+            "notes": ""
+        },
+        {
+            "order": 2,
+            "operation": "",
+            "example": "",
+            "gesture": "",
+            "reasons": "",
+            "Evaluation": [],
+            "notes": ""
+        },
+        {
+            "order": 3,
+            "operation": "",
+            "example": "",
+            "gesture": "",
+            "reasons": "",
+            "Evaluation": [],
+            "notes": ""
+        },
+        {
+            "order": 4,
+            "operation": "",
+            "example": "",
+            "gesture": "",
+            "reasons": "",
+            "Evaluation": [],
+            "notes": ""
+        },
+        {
+            "order": 5,
+            "operation": "",
+            "example": "",
+            "gesture": "",
+            "reasons": "",
+            "Evaluation": [],
+            "notes": ""
+        },
+        {
+            "order": 6,
+            "operation": "",
+            "example": "",
+            "gesture": "",
+            "reasons": "",
+            "Evaluation": [],
+            "notes": ""
+        },
+        {
+            "order": 7,
+            "operation": "",
+            "example": "",
+            "gesture": "",
+            "reasons": "",
+            "Evaluation": [],
+            "notes": ""
+        }
+        
+    ],
+    "comments": ""
+}

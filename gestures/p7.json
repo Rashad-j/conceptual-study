@@ -1,0 +1,73 @@
+{
+    "id": 7,
+    "experience": 2,
+    "gender": "Female",
+    "age": 27,
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "insertion",
+            "example": "Tom is traveling to Berlin week(next)",
+            "gesture": "Use the index of the right hand to point and move the cursor, then typing",
+            "reasons": "Similar to using the mouse",
+            "Evaluation": [5, 6, 3],
+            "notes": ""
+        },
+        {
+            "order": 2,
+            "operation": "reorderSingle",
+            "example": "He in Germany lives",
+            "gesture": "Use the index and thump finger of the right hand and then pinch to and move the hand to move it, then release fingers to let go",
+            "reasons": "Similar to real life objects moving",
+            "Evaluation": [5, 4, 4],
+            "notes": ""
+        },
+        {
+            "order": 3,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long?",
+            "gesture": "Use index and thump fingers to select, expand them to select multiple words, then move my index to top to delete it",
+            "reasons": "It is not complicated",
+            "Evaluation": [5, 4, 4],
+            "notes": "She first suggested to use the keyboard for deletion, but she changed her mind, she said i want to use my hand because it is quickerShe also suggested to use the keyboard for selection"
+        },
+        {
+            "order": 4,
+            "operation": "reorderGroup",
+            "example": "In middle school I am",
+            "gesture": "Move the cursor with the index of the right hand, then select with the index and thumb by expanding, then move the selected text to desired postion as the whole hand move",
+            "reasons": "We don't have drage option with keyboard, so I guess it is better",
+            "Evaluation": [6, 4, 7],
+            "notes": "The participant had some concerns that smaller words may not be selected in this way"
+        },
+        {
+            "order": 5,
+            "operation": "deleteSingle",
+            "example": "He likes to eat healthy when visiting visiting restaurants",
+            "gesture": "Double taping on the word will select it, then move the index up to delete it",
+            "reasons": "",
+            "Evaluation": [7, 7, 7],
+            "notes": "She thinks delete with the index by moving it up or down is equally fine"
+        },
+        {
+            "order": 6,
+            "operation": "replaceSingle",
+            "example": "How far had Morino lived in America?",
+            "gesture": "(similar to delete single) Move the cursor with the index of the right hand with double tap to select it, then move index up to delete it, then type",
+            "reasons": "It is short and quick",
+            "Evaluation": [6, 6, 6],
+            "notes": ""
+        },
+        {
+            "order": 7,
+            "operation": "replaceGroup",
+            "example": "How long have her had this fever? (have her-> has she)",
+            "gesture": "(similar to delete group) Use index and thumb fingers to select, expand them to select multiple words, then move my index to top to delete it, then type",
+            "reasons": "Easier to perform, simple",
+            "Evaluation": [5, 5, 4],
+            "notes": ""
+        }
+        
+    ],
+    "comments": "She asked if this product is already there in the market and whether it can detect the hands correactly."
+}

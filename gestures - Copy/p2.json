@@ -1,0 +1,73 @@
+{
+    "id": 2,
+    "experience": 3,
+    "gender": "Male",
+    "age": 31,
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "reorderGroup",
+            "example": "In middle school I am ",
+            "gesture": "Place the cursor before the word and then expand with the thumb and index to select multiple words, then move the whole hand to move the selected words (mentioned in reorder single) (or with use the index finger to reorder - old proposal)",
+            "reasons": "It is easy to interpertate, easy to use",
+            "Evaluation": [5, 6, 4],
+            "notes": "Later he suggested using both hands for selection of longer phrases, so that you can expand more than just using your thumb and index"
+        },
+        {
+            "order": 2,
+            "operation": "replaceSingle",
+            "example": "How far had Morino lived in America? (far->long)",
+            "gesture": "Select the word using the index and thumb fingers (expand) and then type, it will be deleted once you start typing.",
+            "reasons": "",
+            "Evaluation": [5, 6, 6],
+            "notes": "Suggested a dropdown menu after selecting a word to select a replacement word. He prefer one hand"
+        },
+        {
+            "order": 3,
+            "operation": "reorderSingle",
+            "example": "He in Germany lives",
+            "gesture": "(similar to reoder group)Move the cursor before the word, then use the index and thumb fingers (expand) to select the word, then move the whole hand to reorder",
+            "reasons": "Easy to understand and intuitive",
+            "Evaluation": [5, 6, 6],
+            "notes": "He started by recalling previous proposals"
+        },
+        {
+            "order": 4,
+            "operation": "replaceGroup",
+            "example": "How long have her had this fever? (have her -> has she)",
+            "gesture": "(similar to replace single)Select the word using the index and thumb fingers (expand) and then type, it will be deleted once you start typing",
+            "reasons": "It follows the same idea of previous gestures",
+            "Evaluation": [5, 6, 6],
+            "notes": "Again, he mentioned that the hand gesture will be equal to the ones before."
+        },
+        {
+            "order": 5,
+            "operation": "insertion",
+            "example": "Tom is traveling to Berlin week (next)",
+            "gesture": "Move the cursor with index finger, then typing with the keyboard.",
+            "reasons": "It is easier than using the mouse to point and insert a word, with your hand i think it is quicker and easier",
+            "Evaluation": [5, 7, 7],
+            "notes": ""
+        },
+        {
+            "order": 6,
+            "operation": "deleteSingle",
+            "example": "He likes to eat healthy when visting visiting restaurants",
+            "gesture": "Move the cursor then with the index and thumb fingers expand and select and press backspace on the keyboard",
+            "reasons": "",
+            "Evaluation": [5, 6, 6],
+            "notes": "He mentioned another suggestion which is after selection move the selected segment to a trash bin icon to delete it. Also, he added that longer phrases may require to use both hands for selection"
+        },
+        {
+            "order": 7,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long?",
+            "gesture": "(Similar to delete single) Move the cursor then with the index and thumb fingers expand and select and press backspace on the keyboard",
+            "reasons": "",
+            "Evaluation": [6, 6, 6],
+            "notes": "He mentioned another suggestion which is after selection move the selected segment to a trash bin icon to delete it. Also, he added that longer phrases may require to use both hands for selection"
+        }
+        
+    ],
+    "comments": "I would be happy to try it if you want me to test it once you finish building it."
+}

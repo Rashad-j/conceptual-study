@@ -1,0 +1,73 @@
+{
+    "id": 13,
+    "experience": 0,
+    "age": 35,
+    "gender": "Male",
+    "proposals": [
+        {
+            "order": 1,
+            "operation": "replaceSingle",
+            "example": "How far had Morino lived in America? (far -> long)",
+            "gesture": "Use the index and thumb to select, then strike with the right index to delete, then typing",
+            "reasons": "",
+            "Evaluation": [6, 6, 6],
+            "notes": ""
+        },
+        {
+            "order": 2,
+            "operation": "reorderGroup",
+            "example": "In middle school I am",
+            "gesture": "Use the indexes to select the text, move the whole two hands to move the text to desired position",
+            "reasons": "It is logically connected to the first gesture I proposed. I use the index and thumb to select a word or group words.",
+            "Evaluation": [6, 6, 6],
+            "notes": ""
+        },
+        {
+            "order": 3,
+            "operation": "replaceGroup",
+            "example": "How long have her had this fever? (have her-> has she)",
+            "gesture": "(Similar to replaceSingle) Use the index and thumb to select, then strike with the right index to delete, then typing",
+            "reasons": "Because it is similar to replaceSingle, it is easy to perform",
+            "Evaluation": [6, 6, 6],
+            "notes": ""
+        },
+        {
+            "order": 4,
+            "operation": "reorderSingle",
+            "example": "He in Germany lives",
+            "gesture": "(Similar to reorderGroup) Use the indexes to select the text, move the whole two hands to move the text to desired position",
+            "reasons": "Because I used it in reorderGroup, should be similar to reorderSingle word",
+            "Evaluation": [6, 6, 6],
+            "notes": ""
+        },
+        {
+            "order": 5,
+            "operation": "deleteSingle",
+            "example": "He likes to eat healthy when visiting visiting resturants",
+            "gesture": "(Similar to replaceSingle) Use the index and thumb to select, then strike with the right index to delete",
+            "reasons": "I already used in previous gestures, thus it is easy to remember.",
+            "Evaluation": [6, 6, 6],
+            "notes": ""
+        },
+        {
+            "order": 6,
+            "operation": "insertion",
+            "example": "Tom is traveling to Berlin week (next)",
+            "gesture": "Move the cursor to the position with the whole hand, then just typing",
+            "reasons": "",
+            "Evaluation": [6, 6, 6],
+            "notes": ""
+        },
+        {
+            "order": 7,
+            "operation": "deleteGroup",
+            "example": "What took you so long so long?",
+            "gesture": "(Similar to deleteSingle) use the index and thumb to select the words, then strike with the right index to delete it",
+            "reasons": "It is logically connected to other gestures.",
+            "Evaluation": [7, 6, 6],
+            "notes": ""
+        }
+        
+    ],
+    "comments": "I think it could be useful, probably not to all people, but many could be interested, because it could save them time and more convienent"
+}
