@@ -255,7 +255,7 @@ $(document).ready(function () {
   function addConclusion(conclusions) {
     var title =
       '<div><p class="text-capitalize font-weight-bold m-4" id="clusterid">Conclusion</p></div>';
-    var content = '<div class="row m-4"> ' + "<p>Here goes our conclusion<br>Here goes our conclusion<br>Here goes our conclusion<br>Here goes our conclusion<br></p>" + "</div>";
+    var content = '<div class="row m-4"> ' + "<p>final conclusion presented in my thesis</p>" + "</div>";
     $(".clusters").append(title);
     $(".clusters").append(content);
   }
